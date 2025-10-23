@@ -27,5 +27,5 @@ This project predicts the next day's **closing stock price** for any company usi
 
 ### 1️⃣ Clone this repo
 ```bash
-git clone https://github.com/your-username/stock_prediction.git
+git clone https://github.com/radhika820/stock_prediction/blob/main/stock_prediction.p
 cd stock_prediction
